@@ -1,0 +1,32 @@
+body{
+    background-color: #b38b6d;
+}
+
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+
+h5{
+    font-family: serif;
+}
+p{
+    font-family: serif;
+}
+
+/* The animation code */
+@keyframes color-changer{
+    0%   {color: red;}
+    25%  {color: yellow;}
+    50%  {color: blue;}
+    100% {color: green;}
+}
+
+/* The element to apply the animation to */
+#color-change{
+    animation-name: color-changer;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
