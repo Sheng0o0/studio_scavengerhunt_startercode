@@ -14,7 +14,7 @@ skills on topics covered in previous years of ScriptEd years.
 1. Fork this repo so you have your own repo to save your work.
 
    ![Picture of fork button](img/fork.png)
-   
+   ![huaji](https://vignette1.wikia.nocookie.net/fliplinestudios/images/5/54/Huaji.jpg/revision/latest?cb=20160414121241)
 1. Add your partner as a collaborator to your repo so you can both make commits
    and work in parallel.
 
